@@ -1,16 +1,22 @@
-## Hi there 👋
+all personal projects mostly unmaintained unless me or my friends actively use them
 
-<!--
-**DaTrollMoon/DaTrollMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently working on distributed tracing at solarwinds, see [@DaTrollMoon](https://github.com/DaTrollMoon) for professional contributions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interests
+
+- rust
+- typescript
+- asynchronous io and runtimes
+- tracing
+- language implementations
+
+please refrain from contacting me about web3 or ai i am not interested and will report as spam
+
+---
+
+Si j'pouvais t'offrir une place qui te ressemble / 
+Un lieu qui grandit même si parfois nos mains tremblent /
+Pour la première fois l'hiver serait moins gris /
+La neige pourrait rester blanche sur toi, mon pays.
